@@ -1,4 +1,13 @@
 #declaracion de la funcion
+def multiplicacion (a,b):
+    rest= a*b
+    return rest
+  
+#declaracion de la funcion 
+def resta (a,b):
+    rest= a,b
+    return rest
+
 def suma (a,b):
     rest = a+b
     return rest
@@ -12,7 +21,3 @@ def main():
 if __name__ =="__main__":
     main()
 
-#declaracion de la funcion 
-def resta (a,b):
-    rest= a,b
-    return rest
