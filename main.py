@@ -6,3 +6,7 @@ def main():
     #Aqui se llamaran las funciones de los integrantes del equipo
 if __name__ =="__main__":
     main()
+
+    def multiplicacion (a,b):
+        rest= a*b
+        return rest
