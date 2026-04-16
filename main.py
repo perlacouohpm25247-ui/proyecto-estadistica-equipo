@@ -1,4 +1,9 @@
 #declaracion de la funcion
+def division (a,b):
+    rest=a/b
+    return rest
+
+
 def multiplicacion (a,b):
     rest= a*b
     return rest
