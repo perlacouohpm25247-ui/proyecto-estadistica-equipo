@@ -6,3 +6,8 @@ def main():
     #Aqui se llamaran las funciones de los integrantes del equipo
 if __name__ =="__main__":
     main()
+
+#declaracion de la funcion 
+def resta (a,b):
+    rest= a,b
+    return rest
