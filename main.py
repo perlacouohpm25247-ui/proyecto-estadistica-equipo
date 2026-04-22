@@ -21,3 +21,4 @@ Args:
 
 Returns:
 rest (float) : Resultado de la resta
+"""
