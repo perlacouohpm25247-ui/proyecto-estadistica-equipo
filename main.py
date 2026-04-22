@@ -13,6 +13,18 @@ rest(float):resultado de la division
 
 """
 
+def multiplicacion (a,b):
+    rest= a*b
+    return rest
+  
+#declaracion de la funcion 
+def resta (a,b):
+    rest= a,b
+    return rest
+
+def suma (a,b):
+    rest = a+b
+    return rest
 
 def main():
     print("--- Analizador de datos v1,0 ---")
@@ -22,3 +34,4 @@ def main():
     #Aqui se llamaran las funciones de los integrantes del equipo
 if __name__ =="__main__":
     main()
+
