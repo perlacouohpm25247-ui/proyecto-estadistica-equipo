@@ -7,6 +7,7 @@ def main():
 if __name__ =="__main__":
     main()
 
+
 #declaracion de la funcion 
 def resta (a,b):
     rest= a,b
