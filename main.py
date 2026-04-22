@@ -11,3 +11,13 @@ if __name__ =="__main__":
 def resta (a,b):
     rest= a,b
     return rest
+
+"""
+Devuelve el resultado de la resta de 2 numeros.
+
+Args:
+    a (float): primer valor a restar.
+    b (float): segundo valor a restar.
+
+Returns:
+rest (float) : Resultado de la resta
