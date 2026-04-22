@@ -2,7 +2,16 @@
 def division (a,b):
     rest=a/b
     return rest
+"""
+Devuelve el resultado de division.
+Args:
+  a(float): primer valor a dividir 
+  b(float): segundo valor a dividir
 
+Return:
+rest(float):resultado de la division
+
+"""
 
 
 def main():
