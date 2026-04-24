@@ -1,3 +1,41 @@
+
+#declaracion de la funcion
+def division (a,b):
+    rest=a/b
+    return rest
+"""
+Devuelve el resultado de division.
+Args:
+  a(float): primer valor a dividir 
+  b(float): segundo valor a dividir
+
+Return:
+rest(float):resultado de la division
+
+"""
+
+def multiplicacion (a,b):
+    rest= a*b
+    return rest
+  
+#declaracion de la funcion 
+def resta (a,b):
+    rest= a,b
+    return rest
+
+def suma (a,b):
+    rest = a+b
+    return rest
+"""
+devuelve el resultado de suma
+Args:
+    a(float): Primer valor al sumar
+    b(float): Segundo valor a sumar
+ 
+Return:
+    rest(float):resultado de la suma    
+"""
+
 def main():
     print("--- Analizador de datos v1,0 ---")
     datos = [10,20,30,40, 50,60] #datos de prueba
